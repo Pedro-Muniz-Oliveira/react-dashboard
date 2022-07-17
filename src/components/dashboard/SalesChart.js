@@ -69,7 +69,7 @@ const SalesChart = () => {
   return (
     <Card>
       <CardBody>
-        <CardTitle tag="h5">Sales Summary</CardTitle>
+        <CardTitle tag="h5">Quadro de vendas</CardTitle>
         <CardSubtitle className="text" tag="h6">
           Yearly Sales Report
         </CardSubtitle>
